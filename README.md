@@ -1,0 +1,2 @@
+# bedom
+bedom website wp
