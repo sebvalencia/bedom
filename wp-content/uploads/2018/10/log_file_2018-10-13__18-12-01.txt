@@ -1,0 +1,49 @@
+
+---Downloaded files---
+The import files for: Agency were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/Bedom
+Data file = C:\xampp\htdocs\Bedom/wp-content/uploads/2018/10/demo-content-import-file_2018-10-13__18-12-01.xml
+Widget file = C:\xampp\htdocs\Bedom/wp-content/uploads/2018/10/demo-widgets-import-file_2018-10-13__18-12-01.json
+Customizer file = C:\xampp\htdocs\Bedom/wp-content/uploads/2018/10/demo-customizer-import-file_2018-10-13__18-12-01.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Buscar - No Title - Imported
+Entradas recientes - No Title - Widget already exists
+Comentarios recientes - No Title - Widget already exists
+Archivos - No Title - Widget already exists
+Categorías - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer 1 : 
+
+Texto - No Title - Imported
+
+Footer 2 : 
+
+Texto - Contact us - Imported
+
+Footer 3 : 
+
+Menú de Navegación - Quick links - Imported
+
+Footer 4 : 
+
+Airi: Social Profile - Follow us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
